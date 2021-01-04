@@ -36,6 +36,14 @@
 	}
 	table { border: 1px solid #dedede; }
 
+.nav > li.active > a {
+    background-color: #005eb8;
+}
+
+.nav > li > a:hover {
+    background-color: #005eb8;
+	
+	
 	.search_box #s { height: 33px; }
 	.main_nav .wrapper ul li a { height: 54px; }
 	.page_title hgroup { height: 160px; }
